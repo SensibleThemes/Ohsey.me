@@ -1,1 +1,1 @@
-# Web Themes for @OhseyDev platform websites.
+# Web Themes for @OhseyDev.
