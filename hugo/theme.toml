@@ -1,0 +1,16 @@
+name = 'Ohsey.me'
+license = 'Mozilla Public License'
+licenselink = 'https://github.com/SensibleThemes/Ohsey.me/LIENSE'
+description = 'Hugo theme for Ohsey.me'
+homepage = 'https://github.com/SensibleThemes/Ohsey.me'
+# demosite = 'https://owner.github.io/repo'
+tags = ['blog', 'company']
+# features = ['some', 'awesome', 'features']
+# authors = [
+# {name = 'Name of author', homepage = 'Website of author'},
+# {name = 'Name of author', homepage = 'Website of author'}
+#]
+[original]
+  author = 'Ohsey'
+  homepage = 'https://ohsey.me'
+  repo = 'https://github.com/SensibleThemes/Ohsey.me'
