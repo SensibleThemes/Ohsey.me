@@ -1,1 +1,1 @@
-# Web Themes for @OhseyDev.
+# Web Themes for @OhseyDev
